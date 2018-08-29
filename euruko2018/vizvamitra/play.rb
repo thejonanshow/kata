@@ -102,4 +102,4 @@ class StringifyBoard
   end
 end
 
-Game.new.call(width: 80, height: 30, seed: 17)
+Game.new.call(width: 80, height: 40, seed: 17)
